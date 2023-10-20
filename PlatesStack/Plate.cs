@@ -3,8 +3,8 @@ using System.ComponentModel;
 public class Plate
 {
     //static int [] myPlates = {11,6,9,3,2};
-    //  static int [] myPlates = {6,9,2,1,12,3,5,14,4,8,15};
-    static int [] myPlates = {12,3,5,3,14,6,9,2,1,4,8,15};
+    static int [] myPlates = {6,9,2,1,12,3,5,14,4,8,15};
+    //static int [] myPlates = {12,3,5,3,14,6,9,2,1,4,8,15};
     static int size = myPlates.Length;
     static int [] stack = new int [size];
     static int [] temp = new int [size];
@@ -63,6 +63,7 @@ public class Plate
     public static void init()
     {
         plateIndex++;
+        push(); //insert the first item
     }
 
     public static void printStack()
@@ -80,7 +81,6 @@ public class Plate
             if(plateIndex == -1) //Since the initial value is -1, initialise the task
             {
                 init(); //get the first item
-                push(); //insert the first item
             }
 
             while(!isStackEmpty() && peek()<myPlates[plateIndex]) //As long as the stack is not empty and the top item is lesser than the new item
