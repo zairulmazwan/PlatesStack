@@ -1,0 +1,15 @@
+/Users/zairulmazwan/Dotnet/PlatesStack/PlatesStack/obj/Debug/net7.0/PlatesStack.csproj.AssemblyReference.cache
+/Users/zairulmazwan/Dotnet/PlatesStack/PlatesStack/obj/Debug/net7.0/PlatesStack.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zairulmazwan/Dotnet/PlatesStack/PlatesStack/obj/Debug/net7.0/PlatesStack.AssemblyInfoInputs.cache
+/Users/zairulmazwan/Dotnet/PlatesStack/PlatesStack/obj/Debug/net7.0/PlatesStack.AssemblyInfo.cs
+/Users/zairulmazwan/Dotnet/PlatesStack/PlatesStack/obj/Debug/net7.0/PlatesStack.csproj.CoreCompileInputs.cache
+/Users/zairulmazwan/Dotnet/PlatesStack/PlatesStack/bin/Debug/net7.0/PlatesStack
+/Users/zairulmazwan/Dotnet/PlatesStack/PlatesStack/bin/Debug/net7.0/PlatesStack.deps.json
+/Users/zairulmazwan/Dotnet/PlatesStack/PlatesStack/bin/Debug/net7.0/PlatesStack.runtimeconfig.json
+/Users/zairulmazwan/Dotnet/PlatesStack/PlatesStack/bin/Debug/net7.0/PlatesStack.dll
+/Users/zairulmazwan/Dotnet/PlatesStack/PlatesStack/bin/Debug/net7.0/PlatesStack.pdb
+/Users/zairulmazwan/Dotnet/PlatesStack/PlatesStack/obj/Debug/net7.0/PlatesStack.dll
+/Users/zairulmazwan/Dotnet/PlatesStack/PlatesStack/obj/Debug/net7.0/refint/PlatesStack.dll
+/Users/zairulmazwan/Dotnet/PlatesStack/PlatesStack/obj/Debug/net7.0/PlatesStack.pdb
+/Users/zairulmazwan/Dotnet/PlatesStack/PlatesStack/obj/Debug/net7.0/PlatesStack.genruntimeconfig.cache
+/Users/zairulmazwan/Dotnet/PlatesStack/PlatesStack/obj/Debug/net7.0/ref/PlatesStack.dll
