@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "ckulFRBEPxj3zvSov4jpmCOM/Yn0PvLAaGKYbif4s2XVX+DTyyfEaUus5bSk85QFMpxFdyhvOF428D2RHvef6Q==",
+  "dgSpecHash": "UQpko+8WvETFtpFGoP7Td6TivzzKykK0pHadHdVRBCciNVnOmFaYhmnI5nuP6GHbyrlkUbksEkdufwS0ee+9iw==",
   "success": true,
   "projectFilePath": "/Users/zairulmazwan/Dotnet/PlatesStack/PlatesStack/PlatesStack.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/zairulmazwan/.nuget/packages/microsoft.netcore.app.ref/7.0.15/microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "/Users/zairulmazwan/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.15/microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
+    "/Users/zairulmazwan/.nuget/packages/microsoft.netcore.app.host.osx-arm64/7.0.15/microsoft.netcore.app.host.osx-arm64.7.0.15.nupkg.sha512"
+  ],
   "logs": []
 }
